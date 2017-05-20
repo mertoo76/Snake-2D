@@ -1,0 +1,66 @@
+Initialize engine version: 5.5.0f3 (38b4efef76f0)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce 940M    (ID=0x1347)
+    Vendor:   NVIDIA
+    VRAM:     1996 MB
+    Driver:   10.18.13.5937
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\user\Desktop\Unity\1.Proje\Game_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\user\Desktop\Unity\1.Proje\Game_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\user\Desktop\Unity\1.Proje\Game_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\user\Desktop\Unity\1.Proje\Game_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\user\Desktop\Unity\1.Proje\Game_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\user\Desktop\Unity\1.Proje\Game_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\user\Desktop\Unity\1.Proje\Game_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\user\Desktop\Unity\1.Proje\Game_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Users\user\Desktop\Unity\1.Proje\Game_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll (this message is harmless)
+Loading C:\Users\user\Desktop\Unity\1.Proje\Game_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll into Unity Child Domain
+- Completed reload, in  0.031 seconds
+Platform assembly: C:\Users\user\Desktop\Unity\1.Proje\Game_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\user\Desktop\Unity\1.Proje\Game_Data\Managed\System.dll (this message is harmless)
+desktop: 1366x768 60Hz; virtual: 1366x768 at 0,0
+<RI> Initializing input.
+XInput1_3.dll not found. Trying XInput9_1_0.dll instead...
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 1.046124 ms
+Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 5.116053 ms
+
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 296.
+Total: 0.276148 ms (FindLiveObjects: 0.043851 ms CreateObjectMapping: 0.020938 ms MarkObjects: 0.196740 ms  DeleteObjects: 0.013827 ms)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.361086 ms
+
+Unloading 29 unused Assets to reduce memory usage. Loaded Objects now: 264.
+Total: 0.242173 ms (FindLiveObjects: 0.021333 ms CreateObjectMapping: 0.012641 ms MarkObjects: 0.154074 ms  DeleteObjects: 0.052543 ms)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.338173 ms
+
+Unloading 4 unused Assets to reduce memory usage. Loaded Objects now: 296.
+Total: 0.210568 ms (FindLiveObjects: 0.041876 ms CreateObjectMapping: 0.018172 ms MarkObjects: 0.139851 ms  DeleteObjects: 0.009876 ms)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.541927 ms
+
+Unloading 29 unused Assets to reduce memory usage. Loaded Objects now: 264.
+Total: 1.401680 ms (FindLiveObjects: 0.078617 ms CreateObjectMapping: 0.102321 ms MarkObjects: 0.882173 ms  DeleteObjects: 0.336987 ms)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.642765 ms
+
+Unloading 4 unused Assets to reduce memory usage. Loaded Objects now: 296.
+Total: 0.455111 ms (FindLiveObjects: 0.050963 ms CreateObjectMapping: 0.056098 ms MarkObjects: 0.319605 ms  DeleteObjects: 0.026864 ms)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.484248 ms
+
+Unloading 29 unused Assets to reduce memory usage. Loaded Objects now: 264.
+Total: 1.219951 ms (FindLiveObjects: 0.075061 ms CreateObjectMapping: 0.073086 ms MarkObjects: 0.745877 ms  DeleteObjects: 0.324740 ms)
+
+Setting up 1 worker threads for Enlighten.
+  Thread -> id: 2214 -> priority: 1 
